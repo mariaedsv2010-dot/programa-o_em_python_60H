@@ -54,5 +54,3 @@ if n % 3 == 0 and n % 5 == 0:
     print('é divisivel')
 else:
     print('nao é divisivel')
-
-    print('nao é positivo e nao é maior que 10')
