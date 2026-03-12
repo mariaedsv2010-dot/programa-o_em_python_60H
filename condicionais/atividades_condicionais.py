@@ -47,3 +47,12 @@ if n1 > 0 and n1 > 10:
     print('positivo e maior que 10')
 else:
     print('nao é positivo e nao é maior que 10')
+
+#atividade 7
+n = int(input('digite um numero:')
+if n % 3 == 0 and n % 5 == 0:
+    print('é divisivel')
+else:
+    print('nao é divisivel')
+
+    print('nao é positivo e nao é maior que 10')
